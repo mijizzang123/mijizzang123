@@ -1,6 +1,16 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Miji's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <p align="center">
+<img
+  src="https://render.gitanimals.org/farms/mijizzang123"
+  width="600"
+  height="300"
+/>
+  </p></a>
+  
 <h1 align="center">📚Stacks</h1>
 
 
@@ -34,15 +44,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
 </p><br/>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/mijizzang123"
-  width="600"
-  height="300"
-/>
-</a>
-
 
 <h2 align="center">👥Etc</h2>
 <p align="center">
