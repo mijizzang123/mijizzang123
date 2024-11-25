@@ -35,6 +35,14 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
 </p><br/>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mijizzang123"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 <h2 align="center">👥Etc</h2>
 <p align="center">
