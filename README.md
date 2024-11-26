@@ -78,4 +78,6 @@
   </a>
 </p>
 
-![snake gif](https://github.com/mijizzang123/mijizzang123/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://github.com/mijizzang123/mijizzang123/blob/output/github-snake-dark.svg">
+</div>
