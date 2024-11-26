@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=180&section=header&text=Here%20is%20miji's%20world!&fontSize=40&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=180&section=header&text=Here%20is%20miji's%20world!&fontSize=65&fontColor=FFFFFF&animation=blinking)
 
 
 
