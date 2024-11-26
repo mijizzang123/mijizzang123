@@ -3,7 +3,7 @@
 <hr>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=700&size=50&pause=1000&color=27B359&background=99F0ED&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%8C%B3Miji's+Commit+Farm%F0%9F%8C%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=700&size=50&pause=1000&color=27B359&background=99F0ED&center=true&vCenter=true&width=830&height=100&lines=%F0%9F%8C%B3Miji's+Commit+Farm%F0%9F%8C%B3)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
