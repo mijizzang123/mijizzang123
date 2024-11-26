@@ -1,8 +1,9 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=180&section=header&text=Here%20is%20miji's%20world!&fontSize=65&fontColor=FFFFFF&animation=blinking)
-
-<!-- Line under the header -->
 <hr>
+h e r e  i s  m i j i's  w o r l d!
+
+!d l ɹ o ʍ  s'ı ɾ ı ɯ  s ı  ǝ ɹ ǝ ɥ
 
 <!-- Title and Image on the same line -->
 <h1 align="center">🌳밎밎네 커밋 동물농장🌳</h1>
