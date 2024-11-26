@@ -45,7 +45,6 @@
 <h2 align="center">🗃️Database</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
 </p><br/>
 
 <h2 align="center">👥Etc</h2>
@@ -55,7 +54,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp
 </p><br/>
 
 
