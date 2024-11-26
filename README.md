@@ -67,13 +67,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/jwndnjs1104">
+  <a href="https://github.com/mijizzangq123">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijizzang123&show_icons=true&theme=nord&langs_count=8&hide_title=false" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jwndnjs1104">
+  <a href="https://github.com/mijizzang123">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mijizzang123&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord&hide_title=false" />
   </a>
 </p>
