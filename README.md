@@ -1,7 +1,13 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Miji's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mijizzang123"
+  width="600"
+  height="300"
+/>
+</a>
   
 <h1 align="center">📚Stacks</h1>
 
