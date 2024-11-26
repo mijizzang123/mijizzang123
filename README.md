@@ -4,9 +4,10 @@
 
 
 <!-- Title and Image on the same line -->
-<h1 align="center">🌳Miji's Commit Farm🌳</h1>
+
 
 <p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=700&size=31&pause=1000&color=27B359&background=99F0ED&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B3Miji's+Commit+Farm%F0%9F%8C%B3)](https://git.io/typing-svg)
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/mijizzang123"/>
   </a>
