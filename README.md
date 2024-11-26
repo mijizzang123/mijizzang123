@@ -4,7 +4,7 @@
 
 
 <!-- Title and Image on the same line -->
-<h2>🌳밎밎네 커밋 동물농장🌳</h2>
+<h1 align="center">🌳Miji's Commit Farm🌳</h1>
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
