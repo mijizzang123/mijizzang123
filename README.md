@@ -77,5 +77,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mijizzang123&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord&hide_title=false" />
   </a>
 </p>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
+
