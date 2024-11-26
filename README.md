@@ -1,14 +1,18 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=180&section=header&text=Here%20is%20miji's%20world!&fontSize=65&fontColor=FFFFFF&animation=blinking)
 
+<!-- Line under the header -->
 <hr>
 
-<h3 align="center">
-  🌳밎밎네 커밋 동물농장🌳
+<!-- Title and Image on the same line -->
+<h1 align="center">🌳밎밎네 커밋 동물농장🌳</h1>
+
+<p align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/mijizzang123" alt="Gitanimals" style="vertical-align:middle; margin-left: 10px;">
+    <img src="https://render.gitanimals.org/farms/mijizzang123"/>
   </a>
-</h3>
+</p>
+
   
   
 <h1 align="center">📚Stacks</h1>
