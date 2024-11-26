@@ -1,5 +1,6 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=180&section=header&text=Here%20is%20miji's%20world!&fontSize=65&fontColor=FFFFFF&animation=blinking)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijizzang123%2Fhit-counter&count_bg=%236F706F&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <hr>
 
 
@@ -12,7 +13,7 @@
 </p>
 
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijizzang123%2Fhit-counter&count_bg=%236F706F&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <h1 align="center">📚Stacks</h1>
 
 
