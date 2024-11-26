@@ -1,6 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=00FFFF&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=000000&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
 <p align="center">
 <a href="https://github.com/devxb/gitanimals">
