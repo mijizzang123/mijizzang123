@@ -1,5 +1,6 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=000000&height=200&section=header&text=h%20e%20r%20e%20i%20s%20m%20i%20j%20i's%20w%20o%20r%20l%20d%21%0Aɥ%20ǝ%20ɹ%20ǝ%20ı%20s%20ɯ%ı%20ɾ%ı's%20ʍ%20o%20ɹ%20l%20d%21&fontSize=50&animation=twinkling&fontAlign=50&textColor=808080&borderColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=000000&height=200&section=header&text=h%20e%20r%20e%20i%20s%20m%20i%20j%20i's%20w%20o%20r%20l%20d%21%0Aɥ%20ǝ%20ɹ%20ǝ%20ı%20s%20ɯ%ı%20ɾ%ı's%20ʍ%20o%20ɹ%20l%20d%21&fontSize=60&animation=twinkling&fontAlign=50&textColor=FFFFFF&borderColor=FFFFFF)
+
 <p align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/mijizzang123"/>
